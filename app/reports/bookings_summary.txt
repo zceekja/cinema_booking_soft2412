@@ -1,0 +1,25 @@
+Booking summary
+
+1. Session id: 1
+Location: Broadway
+Movie title: Titanic
+Screen type: Gold
+Date/Time: 
+Booked front seat: 0
+Available front seat: 100
+Booked middle seat: 0
+Available middle seat:  150
+Booked Rear seat: 0
+Available rear seat: 100
+
+2. Session id: 2
+Location: Broadway
+Movie title:  Titanic
+Screen type: Bronze
+Date/Time: 
+Booked front seat:
+Available front seat:
+Booked middle seat:
+Available middle seat:
+Booked Rear seat:
+Available rear seat.

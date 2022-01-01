@@ -1,0 +1,15 @@
+Booking summary
+
+1
+Session id: 1
+Location: location1
+Movie title: movie1
+Screen type: gold
+Date/Time: null
+Available front seat: 100
+Booked front seat: 0
+Available middle seat: 150
+Booked middle seat: 0
+Available rear seat: 100
+Booked rear seat: 0
+

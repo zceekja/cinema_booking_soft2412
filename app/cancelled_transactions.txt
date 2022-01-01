@@ -1,0 +1,9 @@
+Cancelled transactions summary
+
+
+1
+Transaction ID: 207 Status: Unsuccessful Detail: Session Timeout User ID: charles1 Date/Time: 2021-11-03 12:21:24.0
+2
+Transaction ID: 223 Status: Unsuccessful Detail: Session Timeout User ID: charles1 Date/Time: 2021-11-03 12:53:02.0
+3
+Transaction ID: 230 Status: Unsuccessful Detail: Session Timeout User ID: charles1 Date/Time: 2021-11-03 15:21:19.0
